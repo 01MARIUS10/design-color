@@ -1,0 +1,106 @@
+*{
+    margin:0;
+}
+h1{
+    height: 80px;
+    color:#DDC3A5;
+    background-color: #201E20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.color1{
+    background-color:#00539CFF ;
+}
+.color2{
+    background-color: #EEA47FFF;
+}
+/*--------------------------------------*/
+.color3{
+    background-color:#2F3C7E ;
+}
+.color4{
+    background-color: #FBEAEB;
+}
+/*--------------------------------------*/
+.color5{
+    background-color:#101820FF ;
+}
+.color6{
+    background-color: #FEE715FF;
+}
+/*--------------------------------------*/
+.color7{
+    background-color:#F96167;
+}
+.color8{
+    background-color: #FCE77D;
+}
+/*--------------------------------------*/
+.color9{
+    background-color:#E2D1F9 ;
+}
+.color10{
+    background-color: #317773;
+}
+/*--------------------------------------*/
+.color11{
+    background-color:#990011FF ;
+}
+.color12{
+    background-color: #FCF6F5FF;
+}
+/*--------------------------------------*/
+.color13{
+    background-color:#FCEDDA ;
+}
+.color14{
+    background-color: #EE4E34;
+}
+/*--------------------------------------*/
+.color15{
+    background-color:#CC313D;
+}
+.color16{
+    background-color: #F7C5CC;
+}
+/*--------------------------------------*/
+.bi-color{
+    margin:auto;
+    width:90vw;
+    display: grid;
+    grid-template-columns: 45vw 45vw;
+}
+.bi-color>div{
+    display: flex;
+    width:45vw;
+    height: 30vh;
+    align-items: center;
+    justify-content: center;
+}
+/*------------------------------------*/
+.tri-color{
+    margin:auto;
+    width:90vw;
+    display: grid;
+    grid-template-columns: 30vw 30vw 30vw;
+}
+.tri-color>div{
+    display: flex;
+    width:30vw;
+    height: 30vh;
+    align-items: center;
+    justify-content: center;
+}
+/*-------------------------------------*/
+.colors1{
+    background: #FC766AFF;
+}
+.colors1{
+    background: #783937FF;
+}
+.colors1{
+    background: #F1AC88FF;
+}
+
